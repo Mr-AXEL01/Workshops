@@ -30,6 +30,3 @@ abstract class Employe {
         return $this->salaire;
     }
 }
-
-
-?>

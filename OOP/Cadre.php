@@ -16,5 +16,3 @@ class Cadre extends Employe {
         $this->salaire = $this->salaireBase + $this->bonus;
     }
 }
-
-?>

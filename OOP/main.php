@@ -14,5 +14,3 @@ $employe3->calculerSalaire();
 echo "M." . $employe1->getNom() . ", travaille comme " . $employe1->getPoste() . ",et son salaire est : " . $employe1->getSalaire() . "\n";
 echo "M." . $employe2->getNom() . ", travaille comme " . $employe2->getPoste() . ",et son salaire est : " . $employe2->getSalaire() . "\n";
 echo "M." . $employe3->getNom() . ", travaille comme " . $employe3->getPoste() . ",et son salaire est : " . $employe3->getSalaire() . "\n";
-
-?>

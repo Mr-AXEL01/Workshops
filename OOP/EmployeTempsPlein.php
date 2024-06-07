@@ -14,5 +14,3 @@ class EmployeTempsPlein extends Employe {
         $this->salaire = $this->salaireFixe;
     }
 }
-
-?>
