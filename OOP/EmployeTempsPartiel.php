@@ -16,5 +16,3 @@ class EmployeTempsPartiel extends Employe {
         $this->salaire = $this->tauxHoraire * $this->heuresTravaillees;
     }
 }
-
-?>
